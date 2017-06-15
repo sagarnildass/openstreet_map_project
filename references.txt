@@ -1,0 +1,7 @@
+References:
+
+1.	Maps: https://www.openstreetmap.org/
+2.	Maps: https://mapzen.com/data/metro-extracts/
+3.	Regexes: https://github.com/SamMorrowDrums/Udacity-OpenStreetmap
+4.	Project Layout: Udacity sample project
+
